@@ -147,18 +147,6 @@ parsely/
 - **Input Sanitization**: All user input is validated and sanitized
 - **Secure Permissions**: Database and temp files created with restrictive permissions
 
-## Testing
-
-The project follows Test-Driven Development (TDD):
-
-- **Database Layer**: 55% coverage
-- **Parser Layer**: 34% coverage
-- **AI Layer**: 61% coverage
-- **Core Processor**: 56% coverage
-- **API Layer**: 56% coverage
-
-All critical security functions have 100% test coverage.
-
 ## Contributing
 
 1. Fork the repository
